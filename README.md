@@ -1,7 +1,7 @@
 # Matrix module
 
-This matrix module is build from scratch. 
-This module can print a neat matrix form, perform operations such as matrix multiplication, or element-wise addition or multiplication
+This module acts like a real matrix. 
+It can print a neat matrix form, perform operations such as matrix multiplication, or element-wise addition or multiplication
 
 # Files included in this file
 
