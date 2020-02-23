@@ -1,13 +1,16 @@
-# Matrix module
+# What is Linear Algebra?
 
-This module acts like a real matrix. 
-It can print a neat matrix form, perform operations such as matrix multiplication, or element-wise addition or multiplication
+Linear Algebra is about working on linear systems of equations. Rather than working with scalars, we start working with matrices and vectors. 
 
-# Files included in this file
 
-- main.py: file to import and test the module
-./linearAlgebra/matrix.py: matrix class
+Linear Algebra is the key to understanding the calculus and statistics you need in machine learning. If you can understand machine learning methods at the level of vectors and matrices, you will improve your intuition for how and when they work. The better linear algebra will lift your game across the board.
 
-# Additional methods of matrix
+# What is in this Repository?
 
-I include other methods of matrix such as finding the determinant or normalizing the matrix
+- Implementation of matrix and its methods such as finding the determinant, normalization
+
+- Solve a system of equations using 
+ + Gauss Method
+ + Crammer's Rule
+ 
+ 
