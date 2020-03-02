@@ -9,8 +9,12 @@ Linear Algebra is the key to understanding the calculus and statistics you need 
 
 - Implementation of matrix and its methods such as finding the determinant, normalization
 
-- Solve a system of equations using 
- + Gauss Method
- + Crammer's Rule
+- Numerical optimization methods:
+ + Direct methods:
+ 1. Gauss Method
+ 2. Crammer's Rule
+ + Iterative methods:
+ 1. Jacobi method
+ 2. Gauss Seidel method
  
  
